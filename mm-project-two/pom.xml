@@ -27,7 +27,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.test.project.setup</groupId>
-			<artifactId>mm-core</artifactId>
+			<artifactId>mm-core-main</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
